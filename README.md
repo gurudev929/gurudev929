@@ -1,4 +1,4 @@
-# **Hi there👋, I am Pavlo Hordiienko (*a.k.a.* pavlohordiienko201)**
+# **Hi there👋**
   
 ## :information_desk_person:  About Me
 #### Full-stack software developer with more than 7 years in the software development industry and high-level expert proficiency in: full stack and backend programming, cloud, databases, frontend web development, research and prototyping of technologies, collaboration with clients and product management to deliver software to production, deploy and monitor software systems in production.
@@ -231,16 +231,3 @@
 <!-- <div align="center">
   <img width="1000em" style="margin-top: 0px" src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=pavlohordiienko201&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true" />
 </div> -->
-
-## :wrench:  Contact
-<div align="center">
-    <a href="mailto:pavlohordiienko201@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/2x/gmail-new.png"  width="50" />
-    </a>
-    <a href="https://join.skype.com/invite/CqLtEP1sBKQG" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/2x/skype.png"  width="50" />
-    </a>
-    <a href="https://t.me/pavlohordiienko201" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" />
-    </a>
-</div>
